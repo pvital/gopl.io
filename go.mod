@@ -1,8 +1,9 @@
-module gopl.io/ch2
+module gopl.io
 
 go 1.17
 
-require (
-	golang.org/x/net v0.0.0-20210825183410-e898025ed96a
-	gopl.io v0.0.0-20200323155855-65c318dde95e
-)
+replace gopl.io/ch2/exercises/ex2_2/converter => ./ch2/exercises/ex2_2/converter
+
+replace gopl.io/ch2/tempconv => ./ch2/tempconv
+
+require golang.org/x/net v0.0.0-20210825183410-e898025ed96a

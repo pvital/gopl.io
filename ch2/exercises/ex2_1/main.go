@@ -13,7 +13,7 @@ import (
 	"os"
 	"strconv"
 
-	"github.com/pvital/gopl.io/ch2/tempconv"
+	"gopl.io/ch2/tempconv"
 )
 
 func main() {
