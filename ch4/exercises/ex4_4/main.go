@@ -1,4 +1,4 @@
-// Copyright © 2016 Alan A. A. Donovan & Brian W. Kernighan.
+// Copyright © 2021 Paulo Vital
 // License: https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 // See page 93.
